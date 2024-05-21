@@ -7,12 +7,17 @@ During this project we built an ETL pipeline using Python, Pandas and regular ex
 The instructions for this mini project were:
 
 -Create the Category and Subcategory DataFrames
+
 -Create the Campaign DataFrame
+
 -Create the Contacts DataFrame
+
 -Create the Crowdfunding Database
+
 
 ---
 **Team**
 
 Kevin Dorado
+
 Jose Nunez
