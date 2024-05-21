@@ -13,5 +13,6 @@ Create the Crowdfunding Database
 
 ---
 **Team**
+
 Kevin Dorado
 Jose Nunez
