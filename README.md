@@ -1,5 +1,5 @@
 ## Crowdfunding_ETL
-Module 13: Project 2 Team: Kevin Dorado / Jose Nunez
+Module 13: Project 2 
 
 During this project we built an ETL pipeline using Python, Pandas and regular expressions. 
 
